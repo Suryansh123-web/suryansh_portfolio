@@ -1,2 +1,2 @@
 # suryansh_portfolio
-task 1
+Responsive personal developer portfolio built with HTML, CSS and JavaScript.
